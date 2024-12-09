@@ -1,0 +1,41 @@
+{"time":"2024-12-09T03:24:17.767505+05:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-09T03:24:17.76756+05:00","level":"INFO","msg":"created symlink","path":"/Users/ali.faheem/VisualStudio/abstractive summarization/Urdu-How-2-Summarization/wandb/run-20241209_032417-lml3ctda/logs/debug-core.log"}
+{"time":"2024-12-09T03:24:17.783631+05:00","level":"INFO","msg":"created new stream","id":"lml3ctda"}
+{"time":"2024-12-09T03:24:17.783708+05:00","level":"INFO","msg":"stream: started","id":"lml3ctda"}
+{"time":"2024-12-09T03:24:17.783774+05:00","level":"INFO","msg":"writer: Do: started","stream_id":"lml3ctda"}
+{"time":"2024-12-09T03:24:17.783824+05:00","level":"INFO","msg":"handler: started","stream_id":"lml3ctda"}
+{"time":"2024-12-09T03:24:17.783882+05:00","level":"INFO","msg":"sender: started","stream_id":"lml3ctda"}
+{"time":"2024-12-09T03:24:18.399056+05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-09T03:24:18.720367+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T04:26:09.581954+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.0.105:53839->35.186.228.49:443: read: operation timed out"}
+{"time":"2024-12-09T10:05:40.433043+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/fcc123/Abstractive_Summarization/lml3ctda/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-09T10:05:42.51957+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/fcc123/Abstractive_Summarization/lml3ctda/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-09T10:06:05.846762+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2024-12-09T10:06:20.445135+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.0.105:54018->35.186.228.49:443: read: can't assign requested address"}
+{"time":"2024-12-09T10:07:19.166271+05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T10:07:19.173601+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T10:07:20.239925+05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T10:07:20.480391+05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T11:13:12.804496+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/fcc123/Abstractive_Summarization/lml3ctda/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-09T11:13:30.415697+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.100.124:54150->35.186.228.49:443: read: no route to host"}
+{"time":"2024-12-09T11:51:00.935848+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.100.124:56101->35.186.228.49:443: read: can't assign requested address"}
+{"time":"2024-12-09T12:27:28.695473+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/fcc123/Abstractive_Summarization/lml3ctda/file_stream\": unexpected EOF"}
+{"time":"2024-12-09T12:28:28.269935+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/fcc123/Abstractive_Summarization/lml3ctda/file_stream\": EOF"}
+{"time":"2024-12-09T12:28:46.672208+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/fcc123/Abstractive_Summarization/lml3ctda/file_stream\": EOF"}
+{"time":"2024-12-09T12:38:42.052781+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/fcc123/Abstractive_Summarization/lml3ctda/file_stream\": unexpected EOF"}
+{"time":"2024-12-09T12:39:14.259493+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2024-12-09T12:39:22.71739+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/fcc123/Abstractive_Summarization/lml3ctda/file_stream\": EOF"}
+{"time":"2024-12-09T12:39:46.582527+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2024-12-09T12:39:55.512236+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/fcc123/Abstractive_Summarization/lml3ctda/file_stream\": EOF"}
+{"time":"2024-12-09T12:40:15.852234+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/fcc123/Abstractive_Summarization/lml3ctda/file_stream\": EOF"}
+{"time":"2024-12-09T12:40:21.338364+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2024-12-09T12:41:29.578458+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2024-12-09T12:41:51.215638+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/fcc123/Abstractive_Summarization/lml3ctda/file_stream\": dial tcp 35.186.228.49:443: connect: no route to host"}
+{"time":"2024-12-09T12:41:53.470142+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/fcc123/Abstractive_Summarization/lml3ctda/file_stream\": dial tcp 35.186.228.49:443: connect: no route to host"}
+{"time":"2024-12-09T12:43:07.442713+05:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/fcc123/Abstractive_Summarization/lml3ctda/file_stream"}
+{"time":"2024-12-09T12:43:07.446064+05:00","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/fcc123/Abstractive_Summarization/lml3ctda/file_stream: {\"error\":\"run Abstractive_Summarization/lml3ctda not found while streaming file\"}"}
+{"time":"2024-12-09T14:00:31.494209+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2024-12-09T14:01:03.916181+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2024-12-09T14:04:01.999255+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2024-12-09T14:32:17.945099+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2024-12-09T14:37:48.297335+05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}

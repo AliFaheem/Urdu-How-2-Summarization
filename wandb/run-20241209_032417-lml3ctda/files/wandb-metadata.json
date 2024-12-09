@@ -1,0 +1,36 @@
+{
+  "os": "macOS-15.1.1-x86_64-i386-64bit",
+  "python": "CPython 3.11.4",
+  "startedAt": "2024-12-08T22:24:17.766175Z",
+  "program": "/Users/ali.faheem/VisualStudio/abstractive summarization/Urdu-How-2-Summarization/llama_tests.ipynb",
+  "codePath": "llama_tests.ipynb",
+  "git": {
+    "remote": "https://github.com/AliFaheem/Urdu-How-2-Summarization.git",
+    "commit": "5f54de0d60100ca03475aef7baf3ac3fe6b1fb0c"
+  },
+  "email": "alifaheem94@gmail.com",
+  "root": "/Users/ali.faheem/VisualStudio/abstractive summarization/Urdu-How-2-Summarization",
+  "host": "A006-01240.local",
+  "username": "ali.faheem",
+  "executable": "/usr/local/bin/python3",
+  "codePathLocal": "llama_tests.ipynb",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "499963174912",
+      "used": "245372997632"
+    },
+    "/System/Volumes/Data": {
+      "total": "499963174912",
+      "used": "245372997632"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "cpu": {
+    "count": 6,
+    "countLogical": 12
+  }
+}
